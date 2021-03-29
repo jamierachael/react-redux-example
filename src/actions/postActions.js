@@ -13,6 +13,7 @@ export const fetchPosts = () => dispatch => {
 
 export const createPost = postData => dispatch => {
     fetch('https://jsonplaceholder.typicode.com/posts', {
+        // try this query todosUrl: string = 'https://jsonplaceholder.typicode.com/todos?_limit=5';
         method: 'POST',
         headers: {
             'content-type': 'application/json'

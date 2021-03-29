@@ -1,3 +1,18 @@
+# React Redux Crash Course (Task Tracker)
+
+> This is the project from the YouTube crash course
+
+### Refresher course for React Redux
+
+* [GitHub Repository](https://github.com/jamierachael/react-redux-example)
+* [Deployed GitHub IO](https://jamierachael.github.io/react-redux-example)
+* [Original YouTube Video](https://youtu.be/93p3LxR9xfM)
+
+### Notes for improvement
+* New notes are not appending to the page
+* Json data not updating
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

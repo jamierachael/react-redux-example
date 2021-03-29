@@ -9,8 +9,8 @@
 * [Original YouTube Video](https://youtu.be/93p3LxR9xfM)
 
 ### Notes for improvement
-* New notes are not appending to the page
-* Json data not updating
+* Query for Json data is too long, try different query string for API
+
 
 
 # Getting Started with Create React App
